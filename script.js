@@ -1,0 +1,9 @@
+let tempDiv = document.querySelector(".box");
+tempDiv.innerHTML = "Hi geekster!";
+tempDiv.style.backgroundColor = "yellow";
+tempDiv.style.margin = '20px';
+tempDiv.style.padding = '10px';
+tempDiv.style.fontSize = '18px';
+tempDiv.style.fontWeight = "bold";
+tempDiv.style.height = "200px";
+tempDiv.style.width = "300px";
